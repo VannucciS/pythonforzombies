@@ -1,0 +1,17 @@
+O T*xt* D*ss*rt*t*v* é *m t*p* d* t*xt* *rg*m*nt*t*v* * *p*n*t*v*, *m* v*z q** *xpõ* * *p*n*ã* s*br* d*t*rm*n*d* *ss*nt* ** t*m*, p*r m*** d* *m* *rg*m*nt*çã* lóg*c*, c**r*nt* * c**s*.
+Estr*t*r* d* T*xt* D*ss*rt*t*v*
+
+A *str*t*r* d* *m t*xt* d*ss*rt*t*v* *stá b*s**d* *m três m*m*nt*s:
+
+    Intr*d*çã*: T*mbém ch*m*d* d* "T*s*", n*ss* m*m*nt*, * m**s *mp*rt*nt* é *xp*r * *d*** c*ntr*l s*br* * t*m* d* m*n**r* cl*r*. Imp*rt*nt* l*mbr*r q** * Intr*d*çã* é * p*rt* m**s *mp*rt*nt* d* t*xt* * p*r *ss* d*v* c*nt*r * *nf*rm*çõ*s q** l*g* s*rã* d*s*nv*lv*d*s.
+    D*s*nv*lv*m*nt*: T*mbém ch*m*d* d* "Ant*-T*s*" ** "Antít*s*", n*ss* p*rt* d* t*xt* é q** s* d*s*nv*lv* * *rg*m*nt*çã* p*r m*** d* *p*n*õ*s, d*d*s, l*v*nt*m*nt*s, *st*tíst*c*s, f*t*s * *x*mpl*s s*br* * t*m*, * f*m d* q** s** t*s* (*d*** c*ntr*l) s*j* d*f*nd*d* c*m pr*pr**d*d*.
+    C*ncl*sã*: O própr** n*m* já s*põ* q** é n*c*ssár** c*ncl**r * t*xt*. Em **tr*s p*l*vr*s, nã* d**x*m*s *m t*xt* s*m c*ncl*í-l* *, p*r *ss*, *ss* m*m*nt* é ch*m*d* d* "N*v* T*s*" p*r s*r *m* m*m*nt* d* f*ch*m*nt* d*s *d***s, * pr*nc*p*lm*nt* d* *ns*rçã* d* *m* n*v* *d***, ** s*j*, *m* "n*v* t*s*".
+
+T*p*s d* D*ss*rt*çã*
+
+Ex*st*m d**s t*p*s d* d*ss*rt*çã*: * D*ss*rt*çã* Arg*m*nt*t*v* * * D*ss*rt*çã* Exp*s*t*v*.
+T*xt* D*ss*rt*t*v*-Arg*m*nt*t*v*
+
+N*ss* m*d*l*d*d*, * *nt*nçã* é p*rs**d*r * l**t*r, c*nv*ncê-l* d* s** t*s* (*d*** c*ntr*l) * p*rt*r d* c**r*nt* *rg*m*nt*çã*, *x*mpl*s, f*t*s.
+V*j* t*mbém: T*xt* D*ss*rt*t*v*-Arg*m*nt*t*v*
+T*xt* D*ss*rt*t*v* Exp*s*t*v*
